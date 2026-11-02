@@ -1,0 +1,22 @@
+{
+  "wheel_id": 654,
+  "structure": "umbrella",
+  "slug": "newcastlehomeloanbroker-153",
+  "project": "home-loan-brokers-newcastle-81ad5f9bc87d4e2041b96578abdf7a39702",
+  "parent_t1_ref": "newcastlehomeloanbroker-012",
+  "node_role": "buffer",
+  "money_target": "newcastlehomeloanbroker.com.au",
+  "primary_kw": "home loan brokers newcastle",
+  "intended_url": "https://sites-e470-2.web.app/home-loan-brokers-newcastle-81ad5f9bc87d4e2041b96578abdf7a39702/",
+  "tier": "T2",
+  "writeback_nonce": "c5d34eefe488710f",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/newcastlehomeloanbroker-012/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
